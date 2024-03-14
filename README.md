@@ -21,7 +21,7 @@ Lenguajes de programación y otras tecnologías 🧑‍💻:
 También he utilizado el gestor de bases de datos MYSQL con la interfaz gráfica
 MYSQL Workbench.
 
-## 👨 Contact me 
+## 👨 Contactáme 
 [Facebook](https://www.facebook.com/rogelio.ceballos.121/)
 <br>
 [Linkedin](linkedin.com/in/rogelio-ceballos-a213b0281)
