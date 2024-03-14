@@ -2,9 +2,7 @@
 
 
 ## 😁 About Me
-Hi, I'm Rogelio Ceballos Castillo. Currently I´m studying computer systems and software engineering 
-at the Universidad de la Salle Bajío.
-
+Hola. Soy Rogelio Ceballos Castillo y actualmente soy estudiante de 6° semetre de la carrera de Ingeniería en sistemas computacionales en la universidad La Salle Bajío.
 ## :computer: programming languages
 The programming languages I have used are C#, Java and JavaScript. Although I have used all the 
 languages mentioned above, I still have a lot to learn to actually use these programming languages 
