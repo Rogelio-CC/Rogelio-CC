@@ -23,7 +23,10 @@ MYSQL Workbench.
 
 ## 👨 Contact me 
 [Facebook](https://www.facebook.com/rogelio.ceballos.121/)
+<br>
 [Linkedin](linkedin.com/in/rogelio-ceballos-a213b0281)
+<br>
 Correo electrónico (gmail): rogelioceballos218gmail.com
+<br>
 Telefóno: 477-600-13-90
 
