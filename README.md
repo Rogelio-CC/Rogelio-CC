@@ -24,7 +24,7 @@ También he utilizado el gestor de bases de datos MYSQL con la interfaz gráfica
 MYSQL Workbench.
 
 ## 👨 Contactáme 
-[Linkedin](linkedin.com/in/rogelio-ceballos-a213b0281)
+Linkedin: linkedin.com/in/rogelio-ceballos-a213b0281
 <br>
 Correo electrónico (gmail): rogelioceballos218gmail.com
 <br>
