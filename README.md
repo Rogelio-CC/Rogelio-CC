@@ -8,6 +8,7 @@ Lenguajes de programación y otras tecnologías 🧑‍💻:
   <li>Python</li>
   <li>Javascript</li>
   <li>C#</li>
+  <li>.NET MAUI</li>
   <li>Java</li>
   <li>Swift</li>
   <li>Kotlín</li>
