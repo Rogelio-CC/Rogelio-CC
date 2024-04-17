@@ -16,6 +16,8 @@ Lenguajes de programación y otras tecnologías 🧑‍💻:
   <li>CSS</li>
   <li>Typescript</li>
   <li>Django</li>
+  <li>Apache Cordova</li>
+  <li>JQuery</li>
 </ul>
 
 También he utilizado el gestor de bases de datos MYSQL con la interfaz gráfica
