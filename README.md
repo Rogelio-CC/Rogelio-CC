@@ -20,6 +20,7 @@ Hola. Soy Rogelio Ceballos Castillo y actualmente soy estudiante de 6° semetre 
   <li>JQuery</li>
   <li>React Native</li>
   <li>Expo</li>
+  <li>Ionic</li>
 </ul>
 
 También he utilizado el gestor de bases de datos MYSQL con la interfaz gráfica
