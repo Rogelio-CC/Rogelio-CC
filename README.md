@@ -25,7 +25,7 @@ Hola. Soy Rogelio Ceballos Castillo y actualmente soy estudiante de 6° semetre 
 También he utilizado el gestor de bases de datos MYSQL con la interfaz gráfica
 MYSQL Workbench.
 
-##  🧑‍💻: ¿En que lenguajes de programación y tencologías tengo mayor conocimiento?
+##  🧑‍💻 ¿En que lenguajes de programación y tencologías tengo mayor conocimiento?
 <ul>
   <li>Python</li>
   <li>Javascript</li>
