@@ -1,8 +1,8 @@
 
-## 😁 Sobre mí
-Hola. Soy Rogelio Ceballos Castillo y actualmente soy estudiante de 6° semetre de la carrera de Ingeniería en sistemas computacionales en la universidad La Salle Bajío. Me gusta aprender cosas nuevas para seguir mejorando en esta industria, ya sea en el desarrollo web o desarrollo móvil; además me considero una persona responsable y dedicada con lo que tengo que cumplir.
+## 😁 About me
+Hi. I am Rogelio Ceballos Castillo and I am currently a 7th semester student of Computer Systems Engineering at La Salle Bajío University. I like to learn new things to continue improving in this industry, whether in websites development or mobile development; I also consider myself a responsible and dedicated person with what I have to accomplish.
 
-## :computer: ¿Con que lenguajes de programación y tencologías he usado?
+## :computer: What programming languages ​​and technologies have I used?
 <ul>
   <li>Python</li>
   <li>Javascript</li>
@@ -23,10 +23,9 @@ Hola. Soy Rogelio Ceballos Castillo y actualmente soy estudiante de 6° semetre 
   <li>Ionic</li>
 </ul>
 
-También he utilizado el gestor de bases de datos MYSQL con la interfaz gráfica
-MYSQL Workbench.
+I have also used the MYSQL database manager with the MYSQL Workbench graphical interface.
 
-##  🧑‍💻 ¿En que lenguajes de programación y tencologías tengo mayor conocimiento?
+##  🧑‍💻 What programming languages ​​and technologies am I most knowledgeable in?
 <ul>
   <li>Python</li>
   <li>Javascript</li>
@@ -35,10 +34,10 @@ MYSQL Workbench.
   <li>Expo</li>
 </ul>
 
-## 👨 Contactáme 
+## 👨 Contact me
 Linkedin: linkedin.com/in/rogelio-ceballos-a213b0281
 <br>
-Correo electrónico (gmail): rogelioceballos218gmail.com
+Gmail: rogelioceballos218gmail.com
 <br>
-Telefóno: 477-600-13-90
+Phone number: 477-600-13-90
 
