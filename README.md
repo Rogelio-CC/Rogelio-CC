@@ -25,13 +25,24 @@ Hi. I am Rogelio Ceballos Castillo and I am currently a 7th semester student of 
 
 I have also used the MYSQL database manager with the MYSQL Workbench graphical interface.
 
-##  🧑‍💻 What programming languages ​​and technologies am I most knowledgeable in?
+##  🧑‍💻 Technical Knowledge
 <ul>
   <li>Python</li>
   <li>Javascript</li>
   <li>HTML</li>
   <li>CSS</li>
   <li>Expo</li>
+</ul>
+
+## 😎 Skills
+<ul>
+  <li>Good communication (oral and written).</li>
+  <li>Active collaboration.</li>
+  <li>Adequate time management.</li>
+  <li>Compliance with deadlines.</li>
+  <li>Positive attitude.</li>
+  <li>Teamwork.</li>
+  <li>Preparation of documents for software development.</li>
 </ul>
 
 ## 👨 Contact me
