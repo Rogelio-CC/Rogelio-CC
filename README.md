@@ -51,9 +51,9 @@ Hi. I am Rogelio Ceballos Castillo and I am currently a 7th semester student of 
 </ul>
 
 ## 👨 Contact me
-Linkedin ![imagen](https://github.com/user-attachments/assets/2b8a5694-3fa5-4106-966f-83297b0ee658): linkedin.com/in/rogelio-ceballos-a213b0281
+Linkedin : linkedin.com/in/rogelio-ceballos-a213b0281
 <br>
-Gmail ![imagen](https://github.com/user-attachments/assets/fb0154b6-5e82-4d0b-87da-76b41ed29744): rogelioceballos218gmail.com
+Gmail ✉️: rogelioceballos218gmail.com
 <br>
-Phone number ![imagen](https://github.com/user-attachments/assets/96281e3f-8bcd-4836-8135-4c84786a54bb): 477-600-13-90
+Phone number 📞: 477-600-13-90
 
