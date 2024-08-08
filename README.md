@@ -29,7 +29,7 @@ Hi. I am Rogelio Ceballos Castillo and I am currently a 7th semester student of 
 </ul>
 
 
-##  🧑‍💻 Technical Knowledge
+##  🧑‍💻 Better technical knowledge in programming languages ​​and technologies
 <ul>
   <li><img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python"></li>
   <li><img src="https://img.shields.io/badge/Javascript-grey?style=for-the-badge&logo=javascript"></li>
