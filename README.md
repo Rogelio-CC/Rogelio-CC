@@ -41,19 +41,19 @@ Hi. I am Rogelio Ceballos Castillo and I am currently a 7th semester student of 
 
 ## 😎 Skills
 <ul>
-  <li>Good communication (oral and written).</li>
-  <li>Active collaboration.</li>
-  <li>Adequate time management.</li>
-  <li>Compliance with deadlines.</li>
-  <li>Positive attitude.</li>
-  <li>Teamwork.</li>
-  <li>Preparation of documents for software development.</li>
+  <li>Good communication (oral and written) 🗣️ 📄.</li>
+  <li>Active collaboration 🤝.</li>
+  <li>Adequate time management ⏱️.</li>
+  <li>Compliance with deadlines 👍.</li>
+  <li>Positive attitude 😄.</li>
+  <li>Teamwork 👥.</li>
+  <li>Preparation of documents for software development 📄.</li>
 </ul>
 
 ## 👨 Contact me
-Linkedin: linkedin.com/in/rogelio-ceballos-a213b0281
+Linkedin ![imagen](https://github.com/user-attachments/assets/2b8a5694-3fa5-4106-966f-83297b0ee658): linkedin.com/in/rogelio-ceballos-a213b0281
 <br>
-Gmail: rogelioceballos218gmail.com
+Gmail ![imagen](https://github.com/user-attachments/assets/fb0154b6-5e82-4d0b-87da-76b41ed29744): rogelioceballos218gmail.com
 <br>
-Phone number: 477-600-13-90
+Phone number ![imagen](https://github.com/user-attachments/assets/96281e3f-8bcd-4836-8135-4c84786a54bb): 477-600-13-90
 
