@@ -51,7 +51,7 @@ Hi. I am Rogelio Ceballos Castillo and I am currently a 7th semester student of 
 </ul>
 
 ## 👨 Contact me
-Linkedin : linkedin.com/in/rogelio-ceballos-a213b0281
+Linkedin <img src="https://img.shields.io/badge/-blue?logo=linkedin"> : linkedin.com/in/rogelio-ceballos-a213b0281
 <br>
 Gmail ✉️: rogelioceballos218gmail.com
 <br>
