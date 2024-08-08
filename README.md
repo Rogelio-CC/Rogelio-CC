@@ -2,7 +2,7 @@
 ## 😁 About me
 Hi. I am Rogelio Ceballos Castillo and I am currently a 7th semester student of Computer Systems Engineering at La Salle Bajío University. I like to learn new things to continue improving in this industry, whether in websites development or mobile development; I also consider myself a responsible and dedicated person with what I have to accomplish.
 
-<center><img src="https://web.gcompostela.org/wp-content/uploads/2022/10/Universidad-La-DeLa-Salle-Bajio-logo.png"></center>
+<img src="https://web.gcompostela.org/wp-content/uploads/2022/10/Universidad-La-DeLa-Salle-Bajio-logo.png" style="display: flex; justify-content: center;">
 
 ## :computer: Programming languages ​​and technologies I have used at the University
 <ul>
