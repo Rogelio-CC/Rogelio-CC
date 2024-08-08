@@ -4,34 +4,34 @@ Hi. I am Rogelio Ceballos Castillo and I am currently a 7th semester student of 
 
 ## :computer: What programming languages ​​and technologies have I used?
 <ul>
-  <li>Python</li>
-  <li>Javascript</li>
-  <li>C#</li>
-  <li>.NET MAUI</li>
-  <li>Java</li>
-  <li>Swift</li>
-  <li>Kotlín</li>
-  <li>React</li>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>Typescript</li>
-  <li>Django</li>
-  <li>Apache Cordova</li>
-  <li>JQuery</li>
-  <li>React Native</li>
-  <li>Expo</li>
-  <li>Ionic</li>
+  <li>https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python</li>
+  <li>https://img.shields.io/badge/Javascript-grey?style=for-the-badge&logo=javascript</li>
+  <li>https://img.shields.io/badge/C%20Sharp-purple?style=for-the-badge</li>
+  <li>https://img.shields.io/badge/MAUI-purple?style=for-the-badge&logo=.net</li>
+  <li>https://img.shields.io/badge/Java-brown?style=for-the-badge</li>
+  <li>https://img.shields.io/badge/Swift-black?style=for-the-badge&logo=swift</li>
+  <li>https://img.shields.io/badge/Kotl%C3%ADn-green?style=for-the-badge&logo=kotlin</li>
+  <li>https://img.shields.io/badge/React-black?style=for-the-badge&logo=react</li>
+  <li>https://img.shields.io/badge/HTML-orange?style=for-the-badge</li>
+  <li>https://img.shields.io/badge/CSS-blue?style=for-the-badge</li>
+  <li>https://img.shields.io/badge/Typescript-black?style=for-the-badge&logo=typescript</li>
+  <li>https://img.shields.io/badge/Django-yellow?style=for-the-badge&logo=django</li>
+  <li>https://img.shields.io/badge/Apache%20Cordova-gray?style=for-the-badge&logo=apachecordova</li>
+  <li>https://img.shields.io/badge/JQuery-yellow?style=for-the-badge&logo=jquery</li>
+  <li>https://img.shields.io/badge/React%20Native-blue?style=for-the-badge</li>
+  <li>https://img.shields.io/badge/Expo-blue?style=for-the-badge&logo=expo</li>
+  <li>https://img.shields.io/badge/Ionic-black?style=for-the-badge&logo=ionic</li>
 </ul>
 
 I have also used the MYSQL database manager with the MYSQL Workbench graphical interface.
 
 ##  🧑‍💻 Technical Knowledge
 <ul>
-  <li>Python</li>
-  <li>Javascript</li>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>Expo</li>
+  <li>https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python</li>
+  <li>https://img.shields.io/badge/Javascript-grey?style=for-the-badge&logo=javascript</li>
+  <li>https://img.shields.io/badge/HTML-orange?style=for-the-badge</li>
+  <li>https://img.shields.io/badge/CSS-blue?style=for-the-badge</li>
+  <li>https://img.shields.io/badge/Expo-blue?style=for-the-badge&logo=expo</li>
 </ul>
 
 ## 😎 Skills
