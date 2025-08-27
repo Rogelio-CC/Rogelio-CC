@@ -1,12 +1,12 @@
 
-## 😁 About me
+## 😎 Sobre mí
 Soy Rogelio Ceballos Castillo y soy recien graduado de la Universidad La Salle Bajío. Soy Ingeniero en Software y Sistemas Computacionales. Me apasiona el desarrollo web, ya sea en la parte visual (Frontend) o de lógica (Backend). He adquirido una experiencia de desarrollo de software de 4 años durante mi instancia en la Universidad y quiero seguir aprendido sobre tecnologías que ayudan a mejorar las aplicaciones de hoy en día.
 
 <p align="center">
   <img src="https://web.gcompostela.org/wp-content/uploads/2022/10/Universidad-La-DeLa-Salle-Bajio-logo.png" alt="Logo de La Salle Bajio">
 </p>
 
-##  🧑‍💻 Conocimiento en algunas tecnologías.
+##  🧑‍💻 Tecnologías.
 <ul>
   <li><img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python"></li>
   <li><img src="https://img.shields.io/badge/Javascript-grey?style=for-the-badge&logo=javascript"></li>
@@ -17,9 +17,10 @@ Soy Rogelio Ceballos Castillo y soy recien graduado de la Universidad La Salle B
   <li><img src="https://img.shields.io/badge/MYSQL-black?style=for-the-badge&logo=mysql"></li>
   <li><img src="https://img.shields.io/badge/NodeJS-green?style=for-the-badge&logo=nodejs"></li>
   <li><img src="https://img.shields.io/badge/Blazor-purple?style=for-the-badge&logo=Blazor"></li>
+  <li><img src="https://img.shields.io/badge/JAVA-brown?style=for-the-badge&logo=java"></li>
 </ul>
 
-## 😎 Habilidades y aptitudes
+## 😎 Aptitudes
 <ul>
   <li>Buena comunicación (oral y escrita) 🗣️ 📄.</li>
   <li>Colaboración en equipo 🤝👥.</li>
