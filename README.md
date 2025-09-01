@@ -25,8 +25,7 @@ Soy Rogelio Ceballos Castillo y soy recien graduado de la Universidad La Salle B
   <li>Colaboración en equipo 🤝👥.</li>
   <li>Resolución de problemas👷‍♂️.</li>
   <li>Cumplimientos de entregas 👍.</li>
-  <li>Actitud positiva 😄.</li>
-  <li>Creación de wireframes y mockups para visualización de interfaces inciales 📄.</li>
+  <li>Creación de wireframes y mockups para visualización de interfaces iniciales 📄.</li>
 </ul>
 
 ## 👨 Contactos
