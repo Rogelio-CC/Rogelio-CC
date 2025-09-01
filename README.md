@@ -10,12 +10,11 @@ Soy Rogelio Ceballos Castillo y soy recien graduado de la Universidad La Salle B
 <ul>
   <li><img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python"></li>
   <li><img src="https://img.shields.io/badge/Javascript-grey?style=for-the-badge&logo=javascript"></li>
-  <li><img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge"></li>
-  <li><img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge"></li>
+  <li><img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html"></li>
+  <li><img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css"></li>
   <li><img src="https://img.shields.io/badge/React%20Native-blue?style=for-the-badge"></li>
   <li><img src="https://img.shields.io/badge/Expo-blue?style=for-the-badge&logo=expo"></li>
-  <li><img src="https://img.shields.io/badge/MYSQL-black?style=for-the-badge&logo=mysql"></li>
-  <li><img src="https://img.shields.io/badge/NodeJS-green?style=for-the-badge&logo=nodejs"></li>
+  <li><img src="https://img.shields.io/badge/NodeJS-green?style=for-the-badge"></li>
   <li><img src="https://img.shields.io/badge/Blazor-purple?style=for-the-badge&logo=Blazor"></li>
   <li><img src="https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=Figma"></li>
 </ul>
