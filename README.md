@@ -17,6 +17,7 @@ Soy Rogelio Ceballos Castillo y soy recien graduado de la Universidad La Salle B
   <li><img src="https://img.shields.io/badge/MYSQL-black?style=for-the-badge&logo=mysql"></li>
   <li><img src="https://img.shields.io/badge/NodeJS-green?style=for-the-badge&logo=nodejs"></li>
   <li><img src="https://img.shields.io/badge/Blazor-purple?style=for-the-badge&logo=Blazor"></li>
+  <li><img src="https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=Figma"></li>
 </ul>
 
 ## 😎 Aptitudes
@@ -26,7 +27,7 @@ Soy Rogelio Ceballos Castillo y soy recien graduado de la Universidad La Salle B
   <li>Resolución de problemas👷‍♂️.</li>
   <li>Cumplimientos de entregas 👍.</li>
   <li>Actitud positiva 😄.</li>
-  <li>Elaboración de documentos para el desarrollo del software. 📄.</li>
+  <li>Creación de wireframes y mockups para visualización de interfaces inciales 📄.</li>
 </ul>
 
 ## 👨 Contactos
