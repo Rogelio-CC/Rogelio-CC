@@ -1,6 +1,6 @@
 
 ## 😎 Sobre mí
-Soy Rogelio Ceballos Castillo y soy recien graduado de la Universidad La Salle Bajío. Soy Ingeniero en Software y Sistemas Computacionales. Me apasiona el desarrollo web, ya sea en la parte visual (Frontend) o de lógica (Backend). He adquirido una experiencia de desarrollo de software de 4 años durante mi instancia en la Universidad y quiero seguir aprendido sobre tecnologías que ayudan a mejorar las aplicaciones de hoy en día.
+Soy Rogelio Ceballos Castillo y soy recien graduado de la Universidad La Salle Bajío. Soy Ingeniero en Software y Sistemas Computacionales. Me apasiona el desarrollo web, en especial el diseño web, donde las interfaces son primordiales para que el usuario tenga la mejor experiencia posible y sea orientado adecuadamente en el sitio web o app. He adquirido una experiencia de desarrollo de software de 4 años durante mi instancia en la Universidad y quiero seguir aprendido sobre tecnologías que ayudan a mejorar las aplicaciones de hoy en día.
 
 <p align="center">
   <img src="https://web.gcompostela.org/wp-content/uploads/2022/10/Universidad-La-DeLa-Salle-Bajio-logo.png" alt="Logo de La Salle Bajio">
@@ -34,5 +34,5 @@ Linkedin <img src="https://img.shields.io/badge/-blue?logo=linkedin"> : linkedin
 <br>
 Gmail ✉️: rogelioceballos218gmail.com
 <br>
-Phone number 📞: 477-600-13-90
+Teléfono 📞: 477-600-13-90
 
