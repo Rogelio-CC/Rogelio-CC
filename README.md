@@ -6,7 +6,7 @@ Soy Rogelio Ceballos Castillo y soy recien graduado de la Universidad La Salle B
   <img src="https://web.gcompostela.org/wp-content/uploads/2022/10/Universidad-La-DeLa-Salle-Bajio-logo.png" alt="Logo de La Salle Bajio">
 </p>
 
-##  🧑‍💻 Tecnologías.
+##  🧑‍💻 Habilidades técnicas.
 <ul>
   <li><img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python"></li>
   <li><img src="https://img.shields.io/badge/Javascript-grey?style=for-the-badge&logo=javascript"></li>
