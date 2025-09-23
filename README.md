@@ -14,16 +14,19 @@ Soy Rogelio Ceballos Castillo y soy recien graduado de la Universidad La Salle B
   <li><img src="https://img.shields.io/badge/React%20Native-blue?style=for-the-badge"></li>
   <li><img src="https://img.shields.io/badge/Expo-blue?style=for-the-badge&logo=expo"></li>
   <li><img src="https://img.shields.io/badge/Blazor-purple?style=for-the-badge&logo=Blazor"></li>
+  <li><img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Python"></li>
+  <li><img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=Nodejs"></li>
+   <li><img src="https://img.shields.io/badge/Mysql-blue?style=for-the-badge&logo=Mysql"></li>
   <li><img src="https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=Figma"></li>
 </ul>
 
 ## 😎 Aptitudes
 <ul>
-  <li>Buena comunicación (oral y escrita) 🗣️ 📄.</li>
-  <li>Colaboración en equipo 🤝👥.</li>
+  <li>Comunicación efectiva 🗣️ 📄.</li>
+  <li>Trabajo en equipo 🤝👥.</li>
   <li>Resolución de problemas👷‍♂️.</li>
-  <li>Cumplimientos de entregas 👍.</li>
-  <li>Creación de wireframes y mockups para visualización de interfaces iniciales 📄.</li>
+  <li>Cumplimiento de plazos de entrega👍.</li>
+  <li>Capacidad de aprendizaje continuo. 📄.</li>
 </ul>
 
 ## 👨 Contactos
