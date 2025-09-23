@@ -15,8 +15,8 @@ Soy Rogelio Ceballos Castillo y soy recien graduado de la Universidad La Salle B
   <li><img src="https://img.shields.io/badge/Expo-blue?style=for-the-badge&logo=expo"></li>
   <li><img src="https://img.shields.io/badge/Blazor-purple?style=for-the-badge&logo=Blazor"></li>
   <li><img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Python"></li>
-  <li><img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=Nodejs"></li>
-   <li><img src="https://img.shields.io/badge/Mysql-blue?style=for-the-badge&logo=Mysql"></li>
+  <li><img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge"></li>
+   <li><img src="https://img.shields.io/badge/Mysql-black?style=for-the-badge&logo=Mysql"></li>
   <li><img src="https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=Figma"></li>
 </ul>
 
