@@ -18,7 +18,7 @@ I have gained three years of practical experience in software development throug
   <li>Lenguajes de programación/Programming languages:
     <img src="https://img.shields.io/badge/Javascript-grey?style=for-the-badge&logo=javascript">
     <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=Python">
-    <img src="https://img.shields.io/badge/C#-purple?style=for-the-badge&logo=C#">
+    <img src="https://img.shields.io/badge/CSharp-purple?style=for-the-badge&logo=CSharp">
   </li>
   <li>
     Tecnologías Front-end/Front-end technologies:
@@ -38,7 +38,7 @@ I have gained three years of practical experience in software development throug
   <li>
     Bases de datos/Databases:
     <img src="https://img.shields.io/badge/Mysql-black?style=for-the-badge&logo=Mysql">
-    <img src="https://img.shields.io/badge/Postgresql-blue?style=for-the-badge&logo=Postgresql">
+    <img src="https://img.shields.io/badge/Postgresql-white?style=for-the-badge&logo=Postgresql">
     <img src="https://img.shields.io/badge/Sqlserver-purple?style=for-the-badge&logo=Sqlserver">
   </li>
   <li>
