@@ -72,8 +72,8 @@ I have gained three years of practical experience in software development throug
 
 ## 📄 Certificaciones/Certifications
 <ul>
-  <li><a href="https://www.credly.com/badges/c3975298-365f-401d-9fea-c9d95622bfac/linked_in_profile"></a> AWS Cloud Pracctitioner (2024 - 2027). </li>
-  <li><a href="https://www.credly.com/badges/9294d31a-a9a3-4e2f-a1d0-53f70d64cdeb/linked_in_profile"></a> Introduction to Cybersecurity (2023). </li>
+  <li><a href="https://www.credly.com/badges/c3975298-365f-401d-9fea-c9d95622bfac/linked_in_profile">AWS Cloud Pracctitioner (2024 - 2027).</a></li>
+  <li><a href="https://www.credly.com/badges/9294d31a-a9a3-4e2f-a1d0-53f70d64cdeb/linked_in_profile">Introduction to Cybersecurity (2023).</a></li>
 </ul>
 
 ## 👨 Contáctame/Contact me
