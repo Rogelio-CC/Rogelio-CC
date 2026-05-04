@@ -71,9 +71,9 @@ I have gained three years of practical experience in software development throug
 </ul>
 
 ## 👨 Contáctame/Contact me
-Perfil de Linkedin/Linkedin Profile <img src="https://img.shields.io/badge/-blue?logo=linkedin"> : linkedin.com/in/rogelio-ceballos-a213b0281
+Perfil de Linkedin/Linkedin Profile 👨‍💼 : linkedin.com/in/rogelio-ceballos-a213b0281
 <br>
 Correo electrónico/Email ✉️: rogelioceballos218gmail.com
 <br>
-Número de teléfono/Phone number 📞: 477-600-13-90
+Número de teléfono/Phone number 📞: (+52) 477-600-13-90
 
