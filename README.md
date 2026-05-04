@@ -70,6 +70,12 @@ I have gained three years of practical experience in software development throug
   <li>Capacidad de aprendizaje continuo/Continuous Learning Ability 📄.</li>
 </ul>
 
+## 📄 Certificaciones/Certifications
+<ul>
+  <li><a href="https://www.credly.com/badges/c3975298-365f-401d-9fea-c9d95622bfac/linked_in_profile"></a> AWS Cloud Pracctitioner (2024 - 2027). </li>
+  <li><a href="https://www.credly.com/badges/9294d31a-a9a3-4e2f-a1d0-53f70d64cdeb/linked_in_profile"></a> Introduction to Cybersecurity (2023). </li>
+</ul>
+
 ## 👨 Contáctame/Contact me
 Perfil de Linkedin/Linkedin Profile 👨‍💼 : linkedin.com/in/rogelio-ceballos-a213b0281
 <br>
