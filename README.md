@@ -16,17 +16,17 @@ I have gained three years of practical experience in software development throug
 ##  🧑‍💻 Habilidades técnicas/Technical skills
 <ul>
   <li>Lenguajes de programación/Programming languages:
-    <img src="https://img.shields.io/badge/Javascript-grey?style=for-the-badge&logo=javascript">
-    <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python">
+    <img src="https://img.shields.io/badge/Javascript-grey?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge">
     <img src="https://img.shields.io/badge/CSharp-purple?style=for-the-badge">
   </li>
   <li>
     Tecnologías Front-end/Front-end technologies:
     <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge">
-    <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css">
-    <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react">
-    <img src="https://img.shields.io/badge/Expo-blue?style=for-the-badge&logo=expo">
-    <img src="https://img.shields.io/badge/Blazor-purple?style=for-the-badge&logo=blazor">
+    <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge">
+    <img src="https://img.shields.io/badge/React-blue?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Expo-blue?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Blazor-purple?style=for-the-badge">
     <img src="https://img.shields.io/badge/Blazorise-purple?style=for-the-badge">
     <img src="https://img.shields.io/badge/Radzen-purple?style=for-the-badge">
   </li>
@@ -37,27 +37,27 @@ I have gained three years of practical experience in software development throug
   </li>
   <li>
     Bases de datos/Databases:
-    <img src="https://img.shields.io/badge/Mysql-black?style=for-the-badge&logo=Mysql">
-    <img src="https://img.shields.io/badge/Postgresql-white?style=for-the-badge&logo=Postgresql">
+    <img src="https://img.shields.io/badge/Mysql-black?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Postgresql-white?style=for-the-badge">
     <img src="https://img.shields.io/badge/Sqlserver-purple?style=for-the-badge">
   </li>
   <li>
     Control de versiones/Version Control:
-    <img src="https://img.shields.io/badge/Github-blue?style=for-the-badge&logo=Github">
+    <img src="https://img.shields.io/badge/Github-blue?style=for-the-badge">
   </li>
   <li>
     Servicios en la nube/Cloud services:
-    <img src="https://img.shields.io/badge/AWS-yellow?style=for-the-badge&logo=AWS">
-    <img src="https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=Azure">
-    <img src="https://img.shields.io/badge/Render-purple?style=for-the-badge&logo=Render">
+    <img src="https://img.shields.io/badge/AWS-yellow?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Azure-blue?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Render-purple?style=for-the-badge">
   </li>
   <li>
     Diseño UI/Design UI:
-    <img src="https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=Figma">
+    <img src="https://img.shields.io/badge/Figma-black?style=for-the-badge">
   </li>
   <li>
     Otras herramientas/Other tools:
-    <img src="https://img.shields.io/badge/Ngrok-black?style=for-the-badge&logo=Ngrok">
+    <img src="https://img.shields.io/badge/Ngrok-black?style=for-the-badge">
   </li>
 </ul>
 
