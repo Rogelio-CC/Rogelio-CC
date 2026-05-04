@@ -17,29 +17,29 @@ I have gained three years of practical experience in software development throug
 <ul>
   <li>Lenguajes de programación/Programming languages:
     <img src="https://img.shields.io/badge/Javascript-grey?style=for-the-badge&logo=javascript">
-    <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=Python">
-    <img src="https://img.shields.io/badge/CSharp-purple?style=for-the-badge&logo=CSharp">
+    <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python">
+    <img src="https://img.shields.io/badge/CSharp-purple?style=for-the-badge&logo=csharp">
   </li>
   <li>
     Tecnologías Front-end/Front-end technologies:
-    <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge">
+    <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html">
     <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css">
-    <img src="https://img.shields.io/badge/React-blue?style=for-the-badge">
+    <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react">
     <img src="https://img.shields.io/badge/Expo-blue?style=for-the-badge&logo=expo">
-    <img src="https://img.shields.io/badge/Blazor-purple?style=for-the-badge&logo=Blazor">
+    <img src="https://img.shields.io/badge/Blazor-purple?style=for-the-badge&logo=blazor">
     <img src="https://img.shields.io/badge/Blazorise-purple?style=for-the-badge">
     <img src="https://img.shields.io/badge/Radzen-purple?style=for-the-badge">
   </li>
   <li>
     Tecnologías Back-end/Back-end technologies:
-    <img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge">
-    <img src="https://img.shields.io/badge/Entity Framework Core-green?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=nodejs">
+    <img src="https://img.shields.io/badge/Entity Framework Core-purple?style=for-the-badge">
   </li>
   <li>
     Bases de datos/Databases:
     <img src="https://img.shields.io/badge/Mysql-black?style=for-the-badge&logo=Mysql">
     <img src="https://img.shields.io/badge/Postgresql-white?style=for-the-badge&logo=Postgresql">
-    <img src="https://img.shields.io/badge/Sqlserver-purple?style=for-the-badge&logo=Sqlserver">
+    <img src="https://img.shields.io/badge/Sqlserver-purple?style=for-the-badge&logo=sqlserver">
   </li>
   <li>
     Control de versiones/Version Control:
@@ -47,8 +47,8 @@ I have gained three years of practical experience in software development throug
   </li>
   <li>
     Servicios en la nube/Cloud services:
-    <img src="https://img.shields.io/badge/Aws-yellow?style=for-the-badge&logo=Aws">
-    <img src="https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=Azure">
+    <img src="https://img.shields.io/badge/Aws-yellow?style=for-the-badge&logo=aws">
+    <img src="https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=azure">
     <img src="https://img.shields.io/badge/Render-purple?style=for-the-badge&logo=Render">
   </li>
   <li>
