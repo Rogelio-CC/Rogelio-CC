@@ -58,6 +58,7 @@ I have gained three years of practical experience in software development throug
   <li>
     Otras herramientas/Other tools:
     <img src="https://img.shields.io/badge/Ngrok-black?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Docker-blue?style=for-the-badge">
   </li>
 </ul>
 
