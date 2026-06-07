@@ -5,9 +5,9 @@ Mi nombre es Rogelio Ceballos Castillo y soy recién graduado de la carrera de I
 My name is Rogelio Ceballos Castillo and I recently graduated with a degree in Software and Computer Systems Engineering from La Salle Bajío university. I am interested in applying my knowledge to software project to provide solutions to problems in the tech industry, and I am passionate about web development—specially web design—where user interfaces are essential to ensuring that user has the best experience and is guided effectively through the website or application.
 
 ## 👨‍💼 Experiencia/Experience
-He adquirido 3 años de experiencia práctica en el desarrollo de software con proyectos universitarios y personales (en especial el proyecto web realizado en la misma universidad como parte de mi servicio profesional), con enfoque en aplicaciones web y móvil.
+He adquirido 2 años de experiencia práctica en el desarrollo de software con proyectos universitarios y personales (en especial el proyecto web realizado en la misma universidad como parte de mi servicio profesional), con enfoque en aplicaciones web y móvil.
 
-I have gained three years of practical experience in software development through university and personal projects (particularly the web project I completed at the same university as part of my professional internship), with a focus on web and mobile applications.
+I have gained two years of practical experience in software development through university and personal projects (particularly the web project I completed at the same university as part of my professional internship), with a focus on web and mobile applications.
 
 <p align="center">
   <img src="https://web.gcompostela.org/wp-content/uploads/2022/10/Universidad-La-DeLa-Salle-Bajio-logo.png" alt="Logo de La Salle Bajio">
