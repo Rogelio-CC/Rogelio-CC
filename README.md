@@ -9,10 +9,6 @@ He adquirido 2 años de experiencia práctica en el desarrollo de software con p
 
 I have gained two years of practical experience in software development through university and personal projects (particularly the web project I completed at the same university as part of my professional internship), with a focus on web and mobile applications.
 
-<p align="center">
-  <img src="https://web.gcompostela.org/wp-content/uploads/2022/10/Universidad-La-DeLa-Salle-Bajio-logo.png" alt="Logo de La Salle Bajio">
-</p>
-
 ##  🧑‍💻 Habilidades técnicas/Technical skills
 <ul>
   <li>Lenguajes de programación/Programming languages:
@@ -75,6 +71,7 @@ I have gained two years of practical experience in software development through 
 <ul>
   <li><a href="https://www.credly.com/badges/c3975298-365f-401d-9fea-c9d95622bfac/linked_in_profile">AWS Cloud Pracctitioner (2024 - 2027).</a></li>
   <li><a href="https://www.credly.com/badges/9294d31a-a9a3-4e2f-a1d0-53f70d64cdeb/linked_in_profile">Introduction to Cybersecurity (2023).</a></li>
+  <li>Big School’s AI Development Certificate.</li>
 </ul>
 
 ## 👨 Contáctame/Contact me
